@@ -6,10 +6,6 @@ Addition: Adds two numbers.
 Subtraction: Subtracts the second number from the first.
 Multiplication: Multiplies two numbers.
 Division: Divides the first number by the second.
-Exponentiation: Raises the first number to the power of the second number.
-Percentage: Calculates what percentage the first number is of the second number.
-Square Root: Calculates the square root of the first number.
-Logarithm: Calculates the natural logarithm of the first number.
 Usage
 Input Fields:
 
